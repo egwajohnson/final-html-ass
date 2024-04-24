@@ -1,0 +1,12 @@
+*{
+   /* background-color: aqua;*/
+
+}
+table{
+    
+}
+table tbody tr td img{
+    border: 2px;
+    height: 250px;
+    margin: auto;
+}
