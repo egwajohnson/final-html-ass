@@ -1,10 +1,13 @@
 *{
-   /* background-color: aqua;*/
+   background-color: aqua;
 
 }
+
 table{
-    
+    border: 2px;
+    width: auto;
 }
+
 table tbody tr td img{
     border: 2px;
     height: 250px;
